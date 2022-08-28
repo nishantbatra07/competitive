@@ -3,6 +3,8 @@
 This Project includes all the competitive code problems and solutions well explained
 
 # PROBLEMS
+- Check Prime Number
+  -  2,3,5 7,11
 - Coin Change
   - Given a value sum, if we want to make change for sum cents, and we have an infinite supply of each of coins[] = { coins1, coins2, .. , coinsn} valued coins, how many ways can we make the change? The order of coins doesn’t matter.
 
@@ -12,8 +14,6 @@ This Project includes all the competitive code problems and solutions well expla
     -  Output: 1994
     -  Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
-- Check Prime Number
-  -  2,3,5 7,11
 - Maximum Contiguous Sum
   -  Write an efficient program to find the sum of the contiguous subarray within a one-dimensional array of numbers that has the largest sum. 
 - Shopper Delight
