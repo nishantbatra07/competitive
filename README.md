@@ -7,7 +7,10 @@ This Project includes all the competitive code problems and solutions well expla
   - Given a value sum, if we want to make change for sum cents, and we have an infinite supply of each of coins[] = { coins1, coins2, .. , coinsn} valued coins, how many ways can we make the change? The order of coins doesn’t matter.
 
 - Convert Roman to Decimal
-  -  LIV = 54
+  -  Example 1:
+    -  Input: s = "MCMXCIV"
+    -  Output: 1994
+    -  Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 - Check Prime Number
   -  2,3,5 7,11
